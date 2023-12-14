@@ -1,0 +1,15 @@
+:root{
+    --primary-color: #0a112b;
+    --secondary-color: crimson;
+    --white-color: #fff;
+    --light-gray-color: #eee;
+    --dark-gray-color: #2e3038;
+    --container-width: 120rem;
+    --container-widht-small: 80rem;
+    --container-images: 36rem;
+    --spacing-xsmall: 1rem;
+    --spacing-small: 2rem;
+    --spacing-medium: 3rem;
+    --spacing-large: 5rem;
+    --gap: 3rem;
+}
