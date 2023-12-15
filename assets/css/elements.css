@@ -22,6 +22,7 @@ background-attachment: fixed;
     font-family: 'Open Sans', sans-serif;
     font-size: 2rem;
     color: var(--primary-color);
+    line-height: 1.5;
  }
  /* configs para H... */
  h1,
@@ -37,7 +38,10 @@ background-attachment: fixed;
     text-transform: uppercase;
  }
  h2{
-    font-size: 5.5rem;
+    font-size: 6rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    line-height: 1.2;
  }
  h3{
     font-size: 5rem;
